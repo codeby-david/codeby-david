@@ -1,4 +1,4 @@
--👋 Hi, I’m David Macharia, a passionate Software Developer specializing in:
+-👋 Hi, I’m David, a passionate Software Developer specializing in:
 -🌐 Web Application Development
 -📱 Mobile Application Development
 
