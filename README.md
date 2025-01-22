@@ -1,5 +1,7 @@
 -👋 Hi, I’m David, a passionate Software Developer specializing in:
+
 -🌐 Web Application Development
+
 -📱 Mobile Application Development
 
 -💡 "Always up for a challenge!"
