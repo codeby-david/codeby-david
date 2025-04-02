@@ -11,5 +11,5 @@ Or as my friends and colleagues like to describe me: I’m someone who thrives o
 
 -🚀 Let’s build something awesome together!
 
--📫 Reach out or explore my projects here on GitHub.
+
 
