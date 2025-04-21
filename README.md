@@ -1,37 +1,122 @@
--👋 Hi, I’m David, a passionate Software Developer specializing in:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About Me | David</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0f172a;
+      color: #f8fafc;
+      line-height: 1.6;
+    }
 
--🌐 Web Application Development
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem;
+    }
 
--📱 Mobile Application Development
+    h1, h2 {
+      color: #38bdf8;
+    }
 
--💡 "Always up for a challenge!"
-Or as my friends and colleagues like to describe me: I’m someone who thrives on exploring new ideas, experimenting, and constantly learning.
+    hr {
+      border: none;
+      height: 2px;
+      background: linear-gradient(to right, #38bdf8, #3b82f6, #6366f1);
+      margin: 2rem 0;
+    }
 
--⚡ Currently sharpening my skills in Java,C++,PHP(Laravel),JavaScript, React, Tailwind CSS, TypeScript, Next.js, and APIs, with a strong focus on crafting innovative and impactful solutions.
+    .tech-stack {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+      justify-content: center;
+      padding: 2rem;
+      background-color: #1e293b;
+      border-radius: 1rem;
+    }
 
--🚀 Let’s build something awesome together!
+    .tech-icon {
+      font-size: 3rem;
+      animation: twinkle 3s ease-in-out infinite;
+    }
 
+    .tech-icon:nth-child(2n) { animation-delay: 0.3s; }
+    .tech-icon:nth-child(3n) { animation-delay: 0.6s; }
+    .tech-icon:nth-child(4n) { animation-delay: 0.9s; }
 
+    @keyframes twinkle {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.2); opacity: 0.6; }
+    }
 
-### 🧰 Tech Stack
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+    }
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat&logo=stack-overflow)
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
 
+  <div class="container">
+    <h1>👋 Hi, I'm David</h1>
+    <p>
+      I'm a passionate Software Developer who thrives on solving real-world problems through code. I specialize in:
+    </p>
+    <ul>
+      <li>🌐 Web Application Development</li>
+      <li>📱 Mobile Application Development</li>
+    </ul>
+    <p>
+      💡 <em>"Always up for a challenge!"</em><br>
+      Or as my friends and colleagues like to say — I’m someone who thrives on exploring new ideas, experimenting, and constantly learning.
+    </p>
+    <p>
+      ⚡ I'm currently sharpening my skills in <strong>Java, C++, PHP (Laravel), JavaScript, React, Tailwind CSS, TypeScript, Next.js, and APIs</strong>,
+      with a strong focus on crafting innovative and impactful solutions.
+    </p>
 
+    <hr>
 
+    <h2>🧰 Tech Stack</h2>
 
+    <div class="tech-stack">
+      <i class="devicon-html5-plain colored tech-icon"></i>
+      <i class="devicon-css3-plain colored tech-icon"></i>
+      <i class="devicon-javascript-plain colored tech-icon"></i>
+      <i class="devicon-java-plain colored tech-icon"></i>
+      <i class="devicon-c-plain colored tech-icon"></i>
+      <i class="devicon-php-plain colored tech-icon"></i>
+      <i class="devicon-flutter-plain colored tech-icon"></i>
+      <i class="devicon-tailwindcss-plain colored tech-icon"></i>
+      <i class="devicon-react-original colored tech-icon"></i>
+      <i class="devicon-nextjs-original tech-icon" style="color:white;"></i>
+      <i class="devicon-nodejs-plain colored tech-icon"></i>
+      <i class="devicon-git-plain colored tech-icon"></i>
+      <i class="devicon-github-original tech-icon" style="color:white;"></i>
+      <i class="devicon-stackoverflow-plain colored tech-icon"></i>
+    </div>
 
+    <hr>
 
+    <h2>🤝 Let’s Connect</h2>
+    <ul>
+      <li>💌 <a href="mailto:machariacodes@gmail.com">Email Me</a></li>
+      <li>💼 <a href="https://www.linkedin.com/indavid-macharia001" target="_blank">LinkedIn</a></li>
+      
+    </ul>
+
+    <p>👉 <em>Let’s build something <strong>awesome</strong> together!</em></p>
+  </div>
+
+</body>
+</html>
