@@ -38,7 +38,7 @@ Or as my friends and colleagues like to say — I’m someone who thrives on exp
 ## 📫 Let’s Connect
 
 - 💌 Email: [machariacodes@gmail.com](mailto:machariacodes@gmail.com)  
-- 💼 LinkedIn: [Your LinkedIn Here](https://linkedin.com/in/david-macharia001)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/david-macharia001](https://linkedin.com/in/david-macharia001)  
 
 
 ---
