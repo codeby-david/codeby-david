@@ -1,10 +1,10 @@
-# 👋 Hi, I'm David
+# Hi, I'm David
 
 **Software Developer | Problem Solver | Tech Enthusiast**
 
 I'm a passionate developer who thrives on solving real-world problems through code. I specialize in building web and mobile applications, and I'm always up for a challenge!
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -26,7 +26,7 @@ I'm a passionate developer who thrives on solving real-world problems through co
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
-## 🚀 About Me
+## About Me
 
 - 🌐 **Web Application Development** enthusiast  
 - 📱 Passionate about **Mobile Application Development**  
@@ -36,7 +36,7 @@ I'm a passionate developer who thrives on solving real-world problems through co
 
 > _"I believe in writing clean, efficient code that makes a difference."_
 
-## 📫 Let's Connect
+## Let's Connect. Let's Build Something Amazing together.
 
 <p align="center">
   <a href="mailto:machariacodes@gmail.com">
