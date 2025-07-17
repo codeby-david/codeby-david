@@ -5,6 +5,8 @@
 I'm a passionate developer who thrives on solving real-world problems through code. I specialize in building web and mobile applications, and I'm always up for a challenge!
 
 ## Tech Stack
+<p align="cover"
+<img src ="https://media.istockphoto.com/id/531536951/photo/computer-hacker-stealing-data-from-a-laptop.jpg?s=612x612&w=0&k=20&c=CFvNUVchEvzDr39Pf0IBZdzFC6rOGhGYGYIlfESzmuE=">
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -24,6 +26,7 @@ I'm a passionate developer who thrives on solving real-world problems through co
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</p>
 </p>
 
 ## About Me
