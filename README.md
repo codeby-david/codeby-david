@@ -8,14 +8,13 @@ I'm a passionate developer who thrives on solving real-world problems through co
 
 ## 📊 GitHub Contribution Graph
 
-![David's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=codeby-david&bg_color=ffffff&color=000000&line=00b894&point=000000&area=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codeby-david&bg_color=ffffff&color=000000&line=00b894&point=000000&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 
 ---
 
 ## 🛠 Tech Stack
-<p align="cover">
-<img src="https://media.istockphoto.com/id/531536951/photo/computer-hacker-stealing-data-from-a-laptop.jpg?s=612x612&w=0&k=20&c=CFvNUVchEvzDr39Pf0IBZdzFC6rOGhGYGYIlfESzmuE=">
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
