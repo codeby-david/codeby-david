@@ -4,17 +4,8 @@
 
 I'm a passionate developer who thrives on solving real-world problems through code. I specialize in building web and mobile applications, and I'm always up for a challenge!
 
----
+## Tech Stack
 
-## 📊 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=codeby-david&bg_color=ffffff&color=000000&line=00b894&point=000000&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -35,10 +26,9 @@ I'm a passionate developer who thrives on solving real-world problems through co
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
+</p>
 
----
-
-## 👨‍💻 About Me
+## About Me
 
 - 🌐 **Web Application Development** enthusiast  
 - 📱 Passionate about **Mobile Application Development**  
@@ -48,9 +38,7 @@ I'm a passionate developer who thrives on solving real-world problems through co
 
 > _"I believe in writing clean, efficient code that makes a difference."_
 
----
-
-## 📬 Let's Connect. Let's Build Something Amazing Together.
+## Let's Connect. Let's Build Something Amazing together.
 
 <p align="center">
   <a href="mailto:machariacodes@gmail.com">
@@ -65,4 +53,3 @@ I'm a passionate developer who thrives on solving real-world problems through co
   <a href="https://twitter.com/dave_machaa">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</p>
